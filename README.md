@@ -1,5 +1,5 @@
-# Rythm-fps
-Just Shapes and beats If it was a RogueLike, complete with procedural generation, Upgrades, and Bosses!
+# Just Shapes and Dungeons  
+# Just Shapes and beats If it was a RogueLike, complete with procedural generation, Upgrades, and Bosses!
 
 Implemented features: 
   Procedural generation, 

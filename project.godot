@@ -20,6 +20,11 @@ config/icon="res://Textures/icon.svg"
 GlobalPlayer="*res://Scripts/Global_player.gd"
 GlobalPopup="*res://Scripts/Global_Popup.gd"
 
+[display]
+
+window/size/mode=3
+window/size/borderless=true
+
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/godot_super-wakatime/plugin.cfg")
@@ -64,4 +69,5 @@ Esc={
 
 [rendering]
 
+viewport/hdr_2d=true
 renderer/canvas_textures/default_texture_filter=1

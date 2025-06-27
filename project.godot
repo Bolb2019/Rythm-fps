@@ -70,4 +70,5 @@ Esc={
 [rendering]
 
 viewport/hdr_2d=true
+environment/defaults/default_clear_color=Color(1, 0.423529, 0.423529, 1)
 renderer/canvas_textures/default_texture_filter=1

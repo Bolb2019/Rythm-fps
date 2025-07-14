@@ -8,10 +8,9 @@ Just Shapes and beats If it was a RogueLike, complete with procedural generation
   Health, 
   Main Menu, 
   Settings
+  5 songs and attacks, 
+  10 upgrades, 
 
 # Planned features: 
-  Bosses, 
-  Many songs, 
-  More upgrades, 
-  More art
+  Bosses
  

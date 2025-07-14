@@ -13,7 +13,7 @@ config_version=5
 config/name="Rythm dodger"
 run/main_scene="uid://dif105j8v2f22"
 config/features=PackedStringArray("4.4", "Forward Plus")
-config/icon="res://Textures/icon.svg"
+config/icon="uid://fjusrk3eup06"
 
 [autoload]
 
